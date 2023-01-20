@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">AppRelogio</string>
+    <string name="texto">Linguagem_original</string>
+    <string name="nivel_bateria">Nível bateria</string>
+</resources>
